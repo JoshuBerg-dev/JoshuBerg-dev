@@ -1,18 +1,33 @@
-## Hi there 👋, I'm Joshua
-#### Dedicated Full-Stack Software Engineer & Game Developer
+## Hi there 👋, I'm Joshua  
+### Full-Stack Software Engineer & Hobbyist Game Developer  
 
-- 🔭 I’m currently working on My Portfolio, And Resource Webpages
-- 🌱 I’m currently learning React, NodeJS
+- 🔭 Currently building my portfolio and developing resource web pages
+- 🌱 Expanding my skill set with React and Node.js  
 
+---
 
-## Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react)](https://skillicons.dev) 
+### 🛠 Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react)](https://skillicons.dev)  
 
+---
 
-[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JoshuBerg-dev&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/JoshuBerg-dev/github-readme-stats#gh-dark-mode-only)
-[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=JoshuBerg-dev&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+### 📊 Stats
+<p align="center">
+  <a href="https://github.com/JoshuBerg-dev/github-readme-stats#gh-dark-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=JoshuBerg-dev&count_private=true&show_icons=true&theme=dark" alt="Joshua's GitHub stats" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+    <img src="https://github-readme-stats.vercel.app/api?username=JoshuBerg-dev&count_private=true&show_icons=true&theme=default" alt="Joshua's GitHub stats" />
+  </a>
+</p>
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=JoshuBerg-dev&count_private=true&theme=dark#gh-dark-mode-only)  
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=JoshuBerg-dev&count_private=true&theme=dark" alt="GitHub streak stats" />
+</p>
 
-##  Other Skills
-[![Additional Skills](https://skillicons.dev/icons?i=blender,ps,robloxstudio)](https://skillicons.dev)
+---
+
+### 🎮 Other Skills
+[![Additional Skills](https://skillicons.dev/icons?i=blender,ps)](https://skillicons.dev)
+
+---

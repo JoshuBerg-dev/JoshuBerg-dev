@@ -1,23 +1,18 @@
-## Hi there 👋
-JoshuBerg-dev
+## Hi there 👋, I'm Joshua
+#### Dedicated Full-Stack Software Engineer & Game Developer
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JoshuBerg-dev&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/JoshuBerg-dev/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=JoshuBerg-dev&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+- 🔭 I’m currently working on My Portfolio, And Resource Webpages
+- 🌱 I’m currently learning React, NodeJS
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/JoshuBerg-dev)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoshuBerg-dev)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JoshuBerg-dev&show_icons=true&count_private=true)  
-<!--
-**JoshuBerg-dev/JoshuBerg-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## Skills
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react)](https://skillicons.dev) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+[![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=JoshuBerg-dev&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/JoshuBerg-dev/github-readme-stats#gh-dark-mode-only)
+[![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=JoshuBerg-dev&count_private=true&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=JoshuBerg-dev&count_private=true&theme=dark#gh-dark-mode-only)  
+
+##  Other Skills
+[![Additional Skills](https://skillicons.dev/icons?i=blender,ps,robloxstudio)](https://skillicons.dev)

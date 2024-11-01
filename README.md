@@ -16,13 +16,15 @@
   <a href="https://github.com/JoshuBerg-dev/github-readme-stats#gh-dark-mode-only">
     <img src="https://github-readme-stats.vercel.app/api?username=JoshuBerg-dev&count_private=true&show_icons=true&theme=dark" alt="Joshua's GitHub stats" />
   </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+  <a href="https://github.com/JoshuBerg-dev/github-readme-stats#gh-light-mode-only">
     <img src="https://github-readme-stats.vercel.app/api?username=JoshuBerg-dev&count_private=true&show_icons=true&theme=default" alt="Joshua's GitHub stats" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=JoshuBerg-dev&count_private=true&theme=dark" alt="GitHub streak stats" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=JoshuBerg-dev&theme=dark" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---

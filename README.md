@@ -2,7 +2,7 @@
 ### Full-Stack Software Engineer & Hobbyist Game Developer  
 
 - 🔭 Currently building my portfolio and developing resource web pages
-- 🌱 Expanding my skill set with React and Node.js  
+- 🌱 Expanding my skill set with Python!
 
 ---
 

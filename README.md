@@ -1,5 +1,5 @@
 ## Hi there 👋, I'm Joshua  
-### Full-Stack Software Engineer & Hobbyist Game Developer  
+### Front-end Webpage Developer ---> Full Stack & Hobbyist Game Developer  
 
 - 🔭 Currently building my portfolio and developing resource web pages
 - 🌱 Expanding my skill set with Python!

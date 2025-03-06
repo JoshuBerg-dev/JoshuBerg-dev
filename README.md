@@ -1,7 +1,7 @@
 ## Hi there 👋, I'm Joshua  
 ### Front-end Webpage Developer ---> Full Stack & Hobbyist Game Developer  
 
-- 🔭 Currently building my portfolio and developing resource web pages
+- 🔭 Currently building my digital portfolio and developing resource web pages
 - 🌱 Expanding my skill set with Python!
 
 ---

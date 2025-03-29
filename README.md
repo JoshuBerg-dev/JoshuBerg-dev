@@ -30,6 +30,6 @@
 ---
 
 ### 🎮 Other Skills
-[![Additional Skills](https://skillicons.dev/icons?i=blender,ps)](https://skillicons.dev)
+[![Additional Skills](https://skillicons.dev/icons?i=blender,ps,figma)](https://skillicons.dev)
 
 ---

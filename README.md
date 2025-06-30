@@ -2,7 +2,7 @@
 ### Front-end Webpage Developer ---> Full Stack & Hobbyist Game Developer  
 
 - 🔭 Currently Making my digital portfolio and developing resource web pages
-- 🌱 Expanding my skill set with NextJs!
+- 🌱 Expanding my skill set with ReactJs & NextJs!
 
 ---
 

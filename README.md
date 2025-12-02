@@ -27,8 +27,6 @@
   </a>
 </p> -->
 
----
-
 ### 🎮 Other Skills
 [![Additional Skills](https://skillicons.dev/icons?i=blender,ps,figma)](https://skillicons.dev)
 

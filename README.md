@@ -1,33 +1,18 @@
- ## Hi there 👋, I'm Joshua  
-### Webpage Developer ---> Full Stack & Game Developer  
+ ## Hi there 👋
 
-- 🔭 Currently Making my digital portfolio and developing resource web pages
-- 🌱 Expanding my skill set with ReactJs, and Java!
+# My name is Joshua, but feel free to call me Josh.
+
+I've been working on Making my digital portfolio and other React Components.
+
+I typically design and build applications that solve or simplify a process that I'd personally use.
+
+---
+
+# Tech Stack:
+My main tech stack is JavaScript, React, Node, Express JS, MongoDB, HTML, and CSS.
+
+I'm currently expanding my skill set, and looking to learn TypeScript and Java.
 
 ---
 
-### 🛠 Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs,react,expressjs,mongodb)](https://skillicons.dev)  
-
----
-<!--
- 📊 Stats
- <p align="center">
-  <a href="https://github.com/JoshuBerg-dev/github-readme-stats#gh-dark-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=JoshuBerg-dev&count_private=true&show_icons=true&theme=dark" alt="Joshua's GitHub stats" />
-  </a>
-  <a href="https://github.com/JoshuBerg-dev/github-readme-stats#gh-light-mode-only">
-    <img src="https://github-readme-stats.vercel.app/api?username=JoshuBerg-dev&count_private=true&show_icons=true&theme=default" alt="Joshua's GitHub stats" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=JoshuBerg-dev&theme=dark" alt="GitHub Streak" />
-  </a>
-</p> -->
-
-### 🎮 Other Skills
-[![Additional Skills](https://skillicons.dev/icons?i=blender,ps,figma)](https://skillicons.dev)
-
----
+Projects will be made public and pinned eventually... 
